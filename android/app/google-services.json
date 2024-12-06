@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "967324931485",
+    "project_id": "fir-flutter-6f56f",
+    "storage_bucket": "fir-flutter-6f56f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967324931485:android:ec8fc35a27ea7781c00b74",
+        "android_client_info": {
+          "package_name": "com.example.firstp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-JSKJGQDByXKPZ4kIHq8xiu2K2o1pB0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967324931485:android:3a5737e3a5e027f1c00b74",
+        "android_client_info": {
+          "package_name": "com.example.multiple_image_upload"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-JSKJGQDByXKPZ4kIHq8xiu2K2o1pB0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967324931485:android:05d7582c5ac45cc7c00b74",
+        "android_client_info": {
+          "package_name": "com.example.video_call_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-JSKJGQDByXKPZ4kIHq8xiu2K2o1pB0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967324931485:android:c60484ad887dc628c00b74",
+        "android_client_info": {
+          "package_name": "com.example.video_upload_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-JSKJGQDByXKPZ4kIHq8xiu2K2o1pB0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967324931485:android:db95834ae717cfa8c00b74",
+        "android_client_info": {
+          "package_name": "com.example.whatsappking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-JSKJGQDByXKPZ4kIHq8xiu2K2o1pB0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
